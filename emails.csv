@@ -1,0 +1,9 @@
+text,label
+"Your hospital account will be disabled if you don’t verify it.","phishing"
+"Dear Doctor, please update your password immediately to avoid suspension.","phishing"
+"Click here to access your medical test results securely.","phishing"
+"Your next appointment with Dr. Mehta is confirmed for 5 PM.","safe"
+"Patient report attached for your review.","safe"
+"Reminder: Prescription renewal is due next week.","safe"
+"Urgent: Your medical insurance details need verification.","phishing"
+"Lab report is ready. Please download from the hospital portal.","safe"
